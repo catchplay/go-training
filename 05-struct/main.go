@@ -7,11 +7,11 @@ import (
 )
 
 func main() {
-
 	fmt.Println(person.New("Bob", 20))
 
 	p := person.New("Eason", 32)
 	p.SetName("Ethan")
 	p.SetAge(10)
+
 	fmt.Println(p)
 }
