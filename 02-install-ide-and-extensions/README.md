@@ -1,4 +1,4 @@
-#Install IDE and extensions
+# Install IDE and extensions
 
 ## Download vscode
 https://code.visualstudio.com/download
@@ -9,7 +9,7 @@ https://code.visualstudio.com/docs/languages/go
 ### Set up go.gopath in user settings:
 ```json
 {
-"go.gopath": "$home/go",
+"go.gopath": "/users/ethanlin/go",
 }
 
 ```
