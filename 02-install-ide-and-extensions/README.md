@@ -6,7 +6,7 @@ https://code.visualstudio.com/download
 ## Install go extensions
 https://code.visualstudio.com/docs/languages/go
 
-### Set up go.gopath in user settings:
+## Set up go.gopath in user settings:
 ```json
 {
 "go.gopath": "/users/ethanlin/go",
