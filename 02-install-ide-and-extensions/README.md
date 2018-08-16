@@ -20,3 +20,9 @@ Debug your code, binaries or tests (using [delve](https://github.com/derekparker
 ```
 go get -u github.com/derekparker/delve/cmd/dlv
 ```
+
+## Code tools
+golint
+```
+go get -u golang.org/x/lint/golint
+```
