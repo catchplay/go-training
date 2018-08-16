@@ -1,2 +1,5 @@
 # go-training
-# go-training
+
+
+*   Environment Preparation
+*   Hello World 
