@@ -13,5 +13,6 @@ func main() {
 	p.SetName("Ethan")
 	p.SetAge(10)
 
-	fmt.Println(p)
+	fmt.Printf("name:%s\n", p.Name())
+	fmt.Printf("age:%d\n", p.Age())
 }
