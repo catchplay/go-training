@@ -1,7 +1,3 @@
-// Go's _structs_ are typed collections of fields.
-// They're useful for grouping data together to form
-// records.
-
 package main
 
 import (
