@@ -4,7 +4,7 @@
 Download [Go binary distributions](https://golang.org/dl/), currently using 1.10.3 version.
 
 ## Set up *GOPATH* environment variable
-The *GOPATH* environment variable specifies the location of your [workspace](https://golang.org/doc/code.html#Workspaces). It defaults to a directory named go inside your home directory, so $HOME/go on Unix. Add the workspace's bin subdirectory to your PATH:
+The *GOPATH* environment variable specifies the location of your [workspace](https://golang.org/doc/code.html#Workspaces). It defaults to a directory named `go` inside your home directory, so `$HOME/go` on Unix. Add the workspace's bin subdirectory to your PATH:
 
 ```
 export PATH=$PATH:$(go env GOPATH)/bin
