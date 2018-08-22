@@ -6,3 +6,4 @@
 *   [03 Hello World](https://github.com/catchplay/go-training/tree/master/03-helloworld)
 *   [04 Packages](https://github.com/catchplay/go-training/tree/master/04-packages)
 *   [05 Struct](https://github.com/catchplay/go-training/tree/master/05-struct)
+*   [06 interface](https://github.com/catchplay/go-training/tree/master/06-interface)
